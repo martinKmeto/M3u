@@ -1,0 +1,58 @@
+#EXTM3U
+#PLAYLIST:TV3
+# Built with the CODECS.COM Playlist Builder
+
+#EXTINF:-1 tvg-logo="https://www.itelka.sk/wp-content/uploads/2023/04/plus.png" group-title="Kanály",JOJ Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://joj.sk/
+https://live.cdn.joj.sk/live/andromeda/plus-404.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.satelitnatv.sk/wp-content/uploads/2015/10/JOJ-logo_vertical_A.jpg" group-title="Kanály",JOJ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj-404.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_Telev%C3%ADtie_JOJ_24.png" group-title="Kanály",JOJ 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj_news-404.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_JOJ_Family.png" group-title="Kanály",JOJ Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://joj.sk/
+https://live.cdn.joj.sk/live/andromeda/family-404.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDUkcdejYeaAPIn13mhZGNn52ECH8y54nHAz0UkBmwqQ&s=10" group-title="Kanály",JOJ Wau
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://joj.sk/
+https://live.cdn.joj.sk/live/andromeda/wau-404.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_JOJ_Sport.png" group-title="Kanály",JOJ Šport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj_sport-404.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/43/2/markiza-krimi-logo-png_seeklogo-439428.png" group-title="Kanály",Markíza Krimi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cmesk-ott-images-avod.ssl.cdn.cra.cz/r959xn/q80/e2fe82e6-48fa-4929-a463-88ec8d52d375" group-title="Kanály",Markíza Klasik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_tv_mark%C3%ADza.jpg" group-title="Kanály",Markíza
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+https://cdnsk003.panaccess.com/local/Markiza/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m7cdn.io/skylink/cz/posts/prima_cool_sk_web-331.png" group-title="Kanály",Prima COOL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.skupinaprima.cz/wp-content/uploads/2023/03/logo-prima-love.svg" group-title="Kanály",Prima LOVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mediar.cz/wp-content/uploads/2024/11/novacinema-bile.png" group-title="Kanály",NOVA Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+http://88.212.15.19/live/nova_cinema_avc_25p/playlist.m3u8
+
